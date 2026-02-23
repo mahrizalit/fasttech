@@ -146,10 +146,10 @@ export default function App() {
                 Konsultan IT Terpercaya
               </div>
               <h1 className="text-5xl lg:text-7xl font-bold text-slate-900 leading-[1.1] mb-6">
-                Transformasi Digital <span className="text-primary">Tanpa Batas</span> untuk Bisnis Anda
+                Masih Manual dan Rutin? <span className="text-primary">Setiap Hari Boros.</span>
               </h1>
               <p className="text-lg text-slate-600 mb-10 max-w-lg leading-relaxed">
-                FastTech membantu perusahaan mengakselerasi pertumbuhan melalui solusi teknologi inovatif, dari pengembangan sistem hingga keamanan siber tingkat lanjut.
+                Kami bantu transformasi digital—sistem dan keamanan siber.
               </p>
               <div className="flex flex-col sm:flex-row gap-4">
                 <button className="px-8 py-4 bg-primary text-white rounded-full font-bold hover:bg-primary-dark transition-all shadow-xl shadow-blue-500/25 flex items-center justify-center gap-2 group">
